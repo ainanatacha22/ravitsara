@@ -77,7 +77,7 @@ const Navbar = (props) => {
         <div className=''>
             <CssBaseline />
             {/* <ElevationScroll {...props} color='green'> */}
-                <AppBar component="nav" color='secondary'>
+                <AppBar component="nav" className='navbars'>
                     <Toolbar>
                         <IconButton
                             color="inherit"
