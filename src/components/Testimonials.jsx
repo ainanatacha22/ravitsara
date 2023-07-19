@@ -10,7 +10,7 @@ const Testimonials = () => {
       <div className='text-sm space-y-8 md:flex md:space-x-4 md:space-y-0 lg:w-9/12 lg:m-auto'>
         <div className='transparent-bg p-4 rounded-xl lg:flex lg:space-x-4 lg:p-10'>
           <div>
-            <img src={profil} className='rounded-3xl w-12 m-auto lg:w-full lg:rounded-lg'/>
+            <img src={profil} className='rounded-3xl w-12 m-auto lg:w-full lg:rounded-lg' alt='profil1'/>
           </div>
           <div className='mt-3 text-secondary lg:mt-0 lg:justify-between lg:flex lg:flex-col'>
             <div>
@@ -22,7 +22,7 @@ const Testimonials = () => {
 
         <div className='transparent-bg p-4 rounded-xl lg:flex lg:space-x-4 lg:p-10'>
           <div>
-            <img src={profil} className='rounded-3xl w-12 m-auto lg:w-full lg:rounded-lg'/>
+            <img src={profil} className='rounded-3xl w-12 m-auto lg:w-full lg:rounded-lg' alt='profil2'/>
           </div>
           <div className='mt-3 text-secondary lg:mt-0 lg:justify-between lg:flex lg:flex-col'>
             <div>
@@ -34,7 +34,7 @@ const Testimonials = () => {
 
         <div className='transparent-bg p-4 rounded-xl lg:flex lg:space-x-4 lg:p-10'>
           <div>
-            <img src={profil} className='rounded-3xl w-12 m-auto lg:w-full lg:rounded-lg'/>
+            <img src={profil} className='rounded-3xl w-12 m-auto lg:w-full lg:rounded-lg' alt='profil3'/>
           </div>
           <div className='mt-3 text-secondary lg:mt-0 lg:justify-between lg:flex lg:flex-col'>
             <div>

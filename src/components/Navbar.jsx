@@ -5,7 +5,6 @@ import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import CssBaseline from '@mui/material/CssBaseline';
-import useScrollTrigger from '@mui/material/useScrollTrigger';
 import Box from '@mui/material/Box';
 import Divider from '@mui/material/Divider';
 import Drawer from '@mui/material/Drawer';
@@ -19,7 +18,6 @@ import Button from '@mui/material/Button';
 
 
 const Navbar = (props) => {
-    const [scroll, setScroll] = useState(false);
     const { window } = props;
 
     console.log(window);

@@ -10,7 +10,7 @@ const Product = () => {
       <div className='mt-10'>
         <div className='w-full md:flex md:m-auto md:w-11/12 lg:w-9/12'>
           <div className='px-8 md:px-0 md:w-1/2'>
-            <img src={ravitsara} className='border w-full ' />
+            <img src={ravitsara} className='border w-full' alt='ravitsara'/>
           </div>
           <div className='px-8 mt-4 md:w-1/2 md:items-center md:flex md:flex-col md:m-auto'>
             <div>
@@ -30,7 +30,7 @@ const Product = () => {
       <div className='mt-0'>
         <div className='w-full md:flex md:m-auto md:w-11/12 lg:w-9/12'>
           <div className='px-8 md:px-0 md:w-1/2 md:order-2'>
-            <img src={ravitsara} className='border w-full ' />
+            <img src={ravitsara} className='border w-full' alt='ravina'/>
           </div>
           <div className='px-8 mt-4 md:w-1/2 md:items-center md:flex md:flex-col md:m-auto md:order-1'>
             <div>
@@ -50,7 +50,7 @@ const Product = () => {
       <div className='mt-0'>
         <div className='w-full md:flex md:m-auto md:w-11/12 lg:w-9/12'>
           <div className='px-8 md:px-0 md:w-1/2'>
-            <img src={ravitsara} className='border w-full ' />
+            <img src={ravitsara} className='border w-full ' alt='geranium'/>
           </div>
           <div className='px-8 mt-4 md:w-1/2 md:items-center md:flex md:flex-col md:m-auto'>
             <div>

@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter } from 'react-router-dom';
-import { About, Contact, Footer, Header, Navbars, Product, Teams, Testimonials, Work } from './components';
+import { About, Contact, Footer, Header, Navbars, Product, Teams, Testimonials } from './components';
 
 function App() {
   return (

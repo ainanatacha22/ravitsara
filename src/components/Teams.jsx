@@ -10,7 +10,7 @@ const Teams = () => {
       <div className='w-full lg:w-9/12 md:flex md:m-auto'>
         <div className='px-8 sm:pl-8 lg:px-0'>
           <div>
-            <img src={teams} className='m-auto'/>
+            <img src={teams} className='m-auto' alt='chef'/>
           </div>
           <div className='my-4 m-auto'>
             <h1 className='font-bold'>Name teams</h1>
@@ -20,7 +20,7 @@ const Teams = () => {
 
         <div className='px-8'>
           <div>
-            <img src={teams} />
+            <img src={teams} alt='rh'/>
           </div>
           <div className='my-4'>
             <h1 className='font-bold'>Name teams</h1>
@@ -30,7 +30,7 @@ const Teams = () => {
 
         <div className='px-8 sm:pr-8 lg:px-0'>
           <div>
-            <img src={teams} />
+            <img src={teams} alt='koto'/>
           </div>
           <div className='mt-4'>
             <h1 className='font-bold'>Name teams</h1>
