@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ravitsara/static/css/main.62bc3176.css",
-    "main.js": "/ravitsara/static/js/main.277827b4.js",
+    "main.js": "/ravitsara/static/js/main.c83075ee.js",
     "static/media/bgheader.jpg": "/ravitsara/static/media/bgheader.c9c17ea08f3e5f91d033.jpg",
     "static/media/bgtestimonials.jpg": "/ravitsara/static/media/bgtestimonials.0656549bae1222c1a278.jpg",
     "static/media/teams.jpg": "/ravitsara/static/media/teams.e2af16599c78c15e1dcd.jpg",
@@ -10,12 +10,13 @@
     "static/media/alambic2.jpg": "/ravitsara/static/media/alambic2.c70314185531492a1ee9.jpg",
     "static/media/profil.jpg": "/ravitsara/static/media/profil.79f29fcdffc43f2a6165.jpg",
     "static/media/ravitsara.jpg": "/ravitsara/static/media/ravitsara.901d42f7000080c10142.jpg",
+    "static/media/logo.jpg": "/ravitsara/static/media/logo.e1650d344f431209e9ce.jpg",
     "index.html": "/ravitsara/index.html",
     "main.62bc3176.css.map": "/ravitsara/static/css/main.62bc3176.css.map",
-    "main.277827b4.js.map": "/ravitsara/static/js/main.277827b4.js.map"
+    "main.c83075ee.js.map": "/ravitsara/static/js/main.c83075ee.js.map"
   },
   "entrypoints": [
     "static/css/main.62bc3176.css",
-    "static/js/main.277827b4.js"
+    "static/js/main.c83075ee.js"
   ]
 }
