@@ -4,6 +4,7 @@ import alambic2 from './alambic2.jpg';
 import ravitsara from './ravitsara.jpg';
 import profil from './profil.jpg';
 import teams from './teams.jpg';
+import logo from './logo.jpg';
 
 export {
     about,
@@ -11,5 +12,6 @@ export {
     alambic2,
     ravitsara,
     profil,
-    teams
+    teams,
+    logo
 };
