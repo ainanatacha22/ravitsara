@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { WrapperComponents } from '../hoc'
 
 import AppBar from '@mui/material/AppBar';
@@ -94,7 +94,7 @@ const Navbar = (props) => {
                             component="div"
                             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
                         >
-                            <img src={logo} style={{width:150}}/>
+                            <img src={logo} style={{width:150}} alt='logo'/>
                         </Typography>
                         <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
                             {navObj.map((item, index) => (
